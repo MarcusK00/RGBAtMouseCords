@@ -6,7 +6,7 @@ A lightweight Python utility that prints your mouse’s X/Y position and the pix
 
 ## 🧠 About
 
-I needed a quick way to grab exact RGB values at specific screen coordinates for an automation script. Since I couldn’t find an existing tool, I built this with Python, PyAutoGUI, and Keyboard.
+I needed a quick way to grab exact RGB values at specific mouse coordinates for an automation script. Since I couldn’t find an existing tool, I decided to make it myself. Its made using Python & PyAutoGUI.
 
 ---
 
